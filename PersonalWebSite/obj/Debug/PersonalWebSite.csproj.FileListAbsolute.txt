@@ -27,3 +27,42 @@ c:\users\sc03586\documents\visual studio 2012\Projects\PersonalWebSite\PersonalW
 c:\users\sc03586\documents\visual studio 2012\Projects\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.AspNet.xml
 c:\users\sc03586\documents\visual studio 2012\Projects\PersonalWebSite\PersonalWebSite\obj\Debug\PersonalWebSite.dll
 c:\users\sc03586\documents\visual studio 2012\Projects\PersonalWebSite\PersonalWebSite\obj\Debug\PersonalWebSite.pdb
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\obj\Debug\PersonalWebSite.csproj.CoreCompileInputs.cache
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\obj\Debug\PersonalWebSite.pdb
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\PersonalWebSite.dll.config
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\PersonalWebSite.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\PersonalWebSite.pdb
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Antlr3.Runtime.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\AspNet.ScriptManager.jQuery.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.AspNet.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.Core.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OAuth.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OpenId.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\EntityFramework.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\EntityFramework.SqlServer.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Newtonsoft.Json.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\System.Web.Optimization.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\WebGrease.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Org.Mentalis.Security.Cryptography.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Mono.Math.dll
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Antlr3.Runtime.pdb
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.AspNet.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.Core.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OAuth.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OpenId.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\EntityFramework.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\EntityFramework.SqlServer.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Newtonsoft.Json.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\System.Web.Optimization.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Org.Mentalis.Security.Cryptography.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\bin\Mono.Math.xml
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\obj\Debug\PersonalWebSite.csprojResolveAssemblyReference.cache
+F:\ProjectsGit\PersonalWebSite\PersonalWebSite\obj\Debug\PersonalWebSite.dll
